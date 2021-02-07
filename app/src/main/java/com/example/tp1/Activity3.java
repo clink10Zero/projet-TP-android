@@ -12,7 +12,7 @@ import android.widget.TextView;
 public class Activity3 extends AppCompatActivity {
 
     public String phone;
-
+    //ok
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
