@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TP1</string>
+    <string name="nom">nom</string>
+    <string name="prenom">prenom</string>
+    <string name="age">age</string>
+    <string name="comptence">comptence</string>
+    <string name="tel">tel</string>
+    <string name="validate_button">valider</string>
+</resources>
